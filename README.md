@@ -18,5 +18,5 @@ Sencha Touch开源项目
 如何使用？
 ---------------
 
-克隆项目到本地，或下载ZIP文件解压缩，然后使用Safari浏览器访问。
+克隆项目到本地，或下载ZIP文件解压缩，然后使用Safari浏览器访问index.html。
 GitHub地址：https://github.com/open-html5mobi/html5mobi-SenchaTouch
