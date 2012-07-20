@@ -19,4 +19,4 @@ Sencha Touch开源项目
 ---------------
 
 克隆项目到本地，或下载ZIP文件解压缩，然后使用Safari浏览器访问index.html。
-项目地址：https://github.com/open-html5mobi/html5mobi-SenchaTouch
+项目地址：https://github.com/open-html5mobi/HTML5MOBI.COM-SenchaTouch
